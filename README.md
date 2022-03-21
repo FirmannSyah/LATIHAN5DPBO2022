@@ -32,7 +32,28 @@ e. Mengupdate tabel setiap kali ada perubahan pada data hasil add, update dan de
 
 ![home](https://user-images.githubusercontent.com/99308745/159211366-747475c5-8712-4509-8887-9d4e83518f3d.png)
 
-3. Add
-4. Insert
-5. Delete
-6. Cancel
+2. Add
+
+![Add1](https://user-images.githubusercontent.com/99308745/159211500-5259a012-a64c-4409-83ab-a9515635fb86.png)
+![Add2](https://user-images.githubusercontent.com/99308745/159211503-14769533-7287-4663-bc98-ed808c643f4a.png)
+
+
+3. Update
+
+![Update1](https://user-images.githubusercontent.com/99308745/159211639-480ae062-4353-4599-8b5e-6d6fc0d09c17.png)
+![Update2](https://user-images.githubusercontent.com/99308745/159211642-125439d8-1583-4e3a-ba1f-8da05c53d147.png)
+
+
+4. Delete
+
+![DeLete1](https://user-images.githubusercontent.com/99308745/159211824-d6ad807b-e9bb-4d17-8bdc-fabfb1680a8c.png)
+![Delete2](https://user-images.githubusercontent.com/99308745/159211827-cd4dba60-703e-4b34-978c-04451a5cf8cd.png)
+![Delete3](https://user-images.githubusercontent.com/99308745/159211831-9f812e69-6b5b-4d8f-a353-842b5385ebd5.png)
+
+5. Data Kosong
+
+![Data Kosong](https://user-images.githubusercontent.com/99308745/159211875-509e08a9-7f3a-4edc-9a5a-6ea7194e8720.png)
+
+
+
+
