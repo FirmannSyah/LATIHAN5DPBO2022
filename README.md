@@ -28,8 +28,9 @@ e. Mengupdate tabel setiap kali ada perubahan pada data hasil add, update dan de
 
 ### Hasil Program 
 
-1. Home!
-[Uploading home.png…]()
+1. Home
+
+![home](https://user-images.githubusercontent.com/99308745/159211366-747475c5-8712-4509-8887-9d4e83518f3d.png)
 
 3. Add
 4. Insert
