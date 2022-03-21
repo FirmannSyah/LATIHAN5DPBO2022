@@ -26,3 +26,12 @@ e. Mengupdate tabel setiap kali ada perubahan pada data hasil add, update dan de
 
    melakukan dengan cara menambahkan kode "jTable.setModel(setTable());" pada proses add, update, dan delete.
 
+### Hasil Program 
+
+1. Home!
+[Uploading home.png…]()
+
+3. Add
+4. Insert
+5. Delete
+6. Cancel
