@@ -4,24 +4,17 @@
 
 Sebuah repository untuk mengunggah kodingan dari latihan dpbo 2022
 
-a. Mengganti font dan ukuran teks
+a. Mengganti font dan ukuran teks \
    Tahap ini dapat dilakukan dengan cara melakukan klik kanan pada komponen yang ingin diubah. Pilih menu `Properties`. Lalu ubah jenis font dan ukuran teks.
    Font yang digunakan adalah `Poppins` dengan default size `12`. Namun, pada title diberikan font size `36`\
-b. Mengubah nama variabel setiap komponen
-   Tahap ini dapat dilakukan dengan cara melakukan klik kanan pada komponen yang ingin diubah. Pilih menu `Change Variable Name`. Lalu ubah nama variabel sesuai dengan
-   fungsi/jenis komponennya. \
+b. Mengubah nama variabel setiap komponen \
+   melakukan dengan cara meng-klik kanan pada komponen yang ingin diubah. lalu pilih menu `Change Variable Name`, ubah nama variabel sesuai yang diinginkan. \
 c. Menambahkan validasi ketika inputan tidak lengkap, seperti memunculkan pesan error menggunakan class JOptionPane
-   Tahap ini dapat dilakukan dengan cara menambahkan satu method baru, yaitu `checkingData()` dan dengan memanfaatkan fungsi `equals("")`. Method akan dipanggil disetiap
-   input maupun update. Jika method return 1, maka `JOptionPane` akan mengeluarkan pesan "Harap lengkapi data!". \
-d. Menghapus data pada label inputan ketika sudah selesai add, update, delete, maupun ketika menekan tombol cancel
-   Tahap ini dapat dilakukan dengan cara mereset isi semua variabel inputan dengan menggunakan `setText("")`. Setelah action pada suatu button dilakukan maka kode
-   berikut akan dijalankan.
-   ```
-   txtNIM.setText("");
-   txtName.setText("");
-   txtScore.setText("");
-   txtClass.setText("");
-   ```
-e. Mengupdate tabel setiap kali ada perubahan pada data hasil add, update dan delete
-   Tahap ini dapat dilakukan dengan cara mengupdate tabel dengan menggunakan kode `tableRecord.setModel(setTable());` setelah modifikasi dilakukan.
+   Melakukan dengan cara menambahkan if disetiap masukan dengan fungsi equals("") jika ada masukan yang kosong  maka JOptionPane akan mengeluarkan pesan "Data tidak 
+   boleh Kosong !". \
+d. Menghapus data pada label inputan ketika sudah selesai add, update, delete, maupun ketika menekan tombol cancel \
+   melakukan dengan cara menambahkan atributText.setText(""). Setelah action apapun pada suatu button. fungsi tersebut berguna agar nilai yang terdapat pada text akan
+   diset kosong \
+e. Mengupdate tabel setiap kali ada perubahan pada data hasil add, update dan delete \
+   melakukan dengan cara menambahkan kode jTable.setModel(setTable()); pada proses add, update, dan delete.
 
